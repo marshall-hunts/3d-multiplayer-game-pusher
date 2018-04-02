@@ -2,9 +2,9 @@
 include_once 'Pusher.php';
 
 $pusher = new Pusher(
-  'XXXXXXXXXXXX', // APP KEY
-  'YYYYYYYYYYYY', // APP SECRET
-  'ZZZZZZZZZZZZ' // APP ID
+  '39a9a0e004333a66821f',
+  '0b1b84b2dd5bb6994919',
+  '502250'
 );
 
 $id = time();
